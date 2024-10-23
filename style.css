@@ -1,0 +1,59 @@
+body
+{
+    background-image:url(../../Downloads/capinhaaaaa.jpg);
+    background-size:100%;
+    background-color:#ffffff;
+    color: hsl(0, 0%, 100%);
+    font-family:'image' 'image New', Courier, monospace ;
+    text-align: center;
+}
+h1
+{
+    font-size: 45px;
+}
+
+label
+{
+    font-size: 20px;
+    display: inline-block;
+    width: 250px;
+    height: 35px;
+    margin: 10px;
+}
+input
+{
+    width: 230px;
+    height: 35px;
+    margin: 10px;
+}
+button
+{
+    margin: 10px;
+    width: 250px;
+    height: 35px;
+    background-color: #ffffff;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 15px;
+    border-color: #000000;
+}
+#listDiv
+{
+    background-color:#ffffff;
+    color: hwb(0 0% 100%);
+    display: inline-block;
+    min-height: 350px;
+    width: 300px ;
+}
+p
+{
+    background-color: rgb(255, 255, 255);
+    border: solid 1px hsla(0, 0%, 0%, 0);
+    margin: 2px;
+}
+#formdiv
+{
+    display: inline-block;
+    vertical-align:top
+}
